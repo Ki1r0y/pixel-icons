@@ -1,5 +1,3 @@
-<link href="md.css" rel="stylesheet"></link>
-
 # pixel-icons
 
 no available
@@ -11,7 +9,6 @@ no available
 | ![html5-icon-image-sample](assets/html5.png) | ![css3-icon-image-sample](assets/css3.png) | ![JavaScript-icon-image-sample](assets/JavaScript.png) |
 | :------------------------------------------: | :----------------------------------------: | :----------------------------------------------------: |
 |                    html5                     |                    css3                    |                       JavaScript                       |
-
 
 | ![bootstrap-icon-image-sample](assets/bootstrap.png) | ![bulma-icon-image-sample](assets/bulma.png) | ![react-icon-image-sample](assets/react.png) |
 | :--------------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
